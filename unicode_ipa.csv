@@ -1,5 +1,5 @@
 glyph	gylph_with_representation	unicode_decimal	segment_type	notes
-|	|	124	NULL	"UPSID or marker, e.g. t|t̪ (t or dental t)"
+|	|	124	NULL	UPSID or marker, e.g. t|t̪ (t or dental t)
 *	*	42	consonant	archi-phoneme marker
 L	L	76	consonant	archi-phoneme
 N	N	78	consonant	archi-phoneme
@@ -168,8 +168,8 @@ z	z	122	consonant
 ᶾ	ᶾ	7614	diacritic	Heath's Songoy grammar
 ᶣ	ᶣ	7587	diacritic	labio-palatal offglide
 ͓	o͓	851	diacritic	fricated
-͈	x͈	840	diacritic	"used in SPA to represent tense consonants"
-͉	x͉	841	diacritic	"used in SPA to represent lax consonants"
+͈	x͈	840	diacritic	used in SPA to represent tense consonants
+͉	x͉	841	diacritic	used in SPA to represent lax consonants
 ᴅ	ᴅ	7429	consonant	used to represent a tap as distinguished from flap in UPSID
 ̧	ç	807	diacritic	Unicode decomposition decomposes c-cedilla into a <c> and a cedilla
 ͇	x͇	839	diacritic	non-sibilant marker on obstruents in UPSID
