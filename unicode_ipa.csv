@@ -150,9 +150,9 @@ z	z	122	consonant
 ʑ	ʑ	657	consonant	
 ʒ	ʒ	658	consonant	
 ʔ	ʔ	660	consonant	
-ʼ	ʼ	700	consonant	ejective; actually a diacritic, but for the db counts we'll consider it a consonant marker for the time being -SM
+ʼ	ʼ	700	consonant	ejective
 ʕ	ʕ	661	consonant	
-ˤ	ˤ	740	consonant	pharyngealized; marked as consonant for consonant count when a segment is marked pre-pharyngealized
+ˤ	ˤ	740	consonant	pharyngealized
 ʡ	ʡ	673	consonant	
 ʢ	ʢ	674	consonant	
 ǀ	ǀ	448	consonant	
@@ -172,5 +172,5 @@ z	z	122	consonant
 ̧	ç	807	diacritic	Unicode decomposition decomposes c-cedilla into a <c> and a cedilla
 ͇	x͇	839	diacritic	non-sibilant marker on obstruents in UPSID
 ᴴ	xᴴ	7476	diacritic	equals epiglottal
-ȵ	ȵ	565	consonant	not in an inventory; in extended Hayes
+ȵ	ȵ	565	consonant	not in an inventory
 ˀ	xˀ	704	consonant	pre-glottalized -- need to fix
