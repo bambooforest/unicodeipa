@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """ 
 Script to check for non-legal Unicode-IPA characters.
 
@@ -61,5 +63,5 @@ if __name__=="__main__":
         print("\nThe following table lists the illegal Unicode IPA characters found in the input: "+sys.argv[1]+"\n")
         print("Decimal"+"\t"+"Glyph"+"\t"+"Occurrences") 
         for k, v in test_hash.items():
-            print(str(k).encode("utf-8")+"\t"+chr(k).encode("utf-8")+"\t"+str(v).encode("utf-8"))
+            print(str(k).encode("utf-8")+"\t"+unichr(k).encode("utf-8")+"\t"+str(v).encode("utf-8"))
         print("\n")
