@@ -1,7 +1,7 @@
 unicodeipa
 ==========
 
-Mind you version of Python.
+Mind your version of Python.
 
 
 For Python < 3:
